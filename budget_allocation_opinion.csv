@@ -1,0 +1,22 @@
+Timestamp,Name,City you live in,aware,favored_sector,unfavored_sector,workforce_group,tax_significance_score,lower_taxes
+,,,,,,,,
+,,,,,,,,
+04/09/2021 02:27,fidel,cdo,Yes,education,green initiatives,unemployed,3,4
+04/09/2021 02:28,jathniel,cdo,No,education,universal basic income,young professional,5,4
+04/09/2021 02:28,zoren,cdo,Yes,infrastructure,green initiatives,unemployed,4,2
+04/09/2021 10:15,Lemuel,"Tudela, Misamis Occidental",No,health,green initiatives,unemployed,3,2
+04/10/2021 23:20,Jace,Quezon City,No,education,security,young professional,2,3
+04/11/2021 11:53,Em,Taguig,No,health,universal basic income,unemployed,3,3
+04/12/2021 10:11,Anne Marie,City of Malolos,No,green initiatives,infrastructure,unemployed,1,5
+4/14/2021 11:33:03,jemual,cavite,No,education,green initiatives,young professional,3,3
+4/14/2021 11:33:42,grant,las pinas,No,health,security,student,2,4
+4/14/2021 11:34:30,nicole,las pinas,Yes,health,green initiatives,young professional,5,2
+4/20/2021 9:04:47,Cheryl Ansil,"MAMBAJAO, CAMIGUIN",No,health,security,working adult,4,3
+4/20/2021 14:18:42,RJ,QC,No,health,security,unemployed,3,4
+4/20/2021 19:07:40,Deck,San Pedro,No,education,green initiatives,working adult,3,4
+4/29/2021 11:33:43,Mary Ann Fadrilan,"Lipa City, Batangas",No,education,security,young professional,4,2
+05/01/2021 20:59,Ram Gustilo,Cagayan de Oro City,Yes,health,infrastructure,working adult,3,2
+05/06/2021 00:43,Rico,Caloocan City,No,education,security,student,2,2
+05/07/2021 20:44,Dianna Abrea,Batangas,No,health,security,student,4,3
+05/12/2021 14:39,Angelica,Antipolo City,No,health,security,working adult,2,5
+05/12/2021 18:04,Teodorico M. Amparo Jr.,CALOOCAN CITY,No,education,security,young professional,3,2
